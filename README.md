@@ -1,6 +1,5 @@
 
-
-
+markdown
 # 🧠 carlos-lab-linux-movil
 
 Instalación de Linux en Android con UserLAnd y Ubuntu. Proyecto técnico y personal guiado junto a Lia - IA. Incluye herramientas de ciberseguridad, gestión de bóveda digital en Obsidian y reflexiones del camino autodidacta de Carlos Páez.
@@ -71,6 +70,23 @@ Asistente digital que acompañó cada paso del proceso:
 ---
 
 **Este repositorio es testimonio de voluntad, aprendizaje y transformación.**
+
+
+---
+📁 carlos-lab-linux-movil/
+├── README.md  ← Presentación general del proyecto
+├── mi-ruta-de-instalacion.md  ← Relato inicial de tu experiencia
+├── herramientas-instaladas.md  ← Herramientas que vas sumando
+├── diario/
+│   ├── 2025-09-04.md  ← Jornada técnica y emocional
+│   ├── 2025-09-05.md  ← Nueva entrada con reflexiones y avances
+│   └──...
+├── reflexiones/
+│   └── sobre-aprender-en-la-madurez.md
+│   └── sobre-la-paciencia-y-la-voluntad.md
+├── recursos/
+│   └── enlaces-utiles.md
+│   └── plantillas-obsidian.md
 
 
 ---
